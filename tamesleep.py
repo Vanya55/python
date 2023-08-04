@@ -20,6 +20,7 @@ for k,v in dic.items():
     except Exception:
         print("Время Вышло!")
         break
+        
 print("Верные ответи",count)
 
             
