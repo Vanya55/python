@@ -31,7 +31,7 @@ def printRandomQuestionAndAnsers(question,ansers):
         print("\n".join(ansers))
 
 
-def aa(lines):
+def getusername(lines):
     your_name = input("Enter name: ").title()
     for el in lines:
         if your_name in el:
@@ -44,7 +44,7 @@ def aa(lines):
                 file.close()
                 break
             else:
-                return aa(lines)
+                return getusername(lines)
                 break
     return your_name
 def main():
@@ -54,7 +54,7 @@ def main():
     file.close()
 
     
-    your_name=aa(lines)
+    your_name=getusername(lines)
     
     for i in quest:
         printRandomQuestionAndAnsers(i['harc'], i["patasxan"].split(","))
