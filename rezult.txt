@@ -1,0 +1,10 @@
+English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written English will both improve your vocabulary and understanding of grammar and word order. The texts below are designed to help you develop while giving you an instant evaluation of your progress.
+
+Count of words:
+{'E': 2, 'n': 26, 'g': 11, 'l': 11, 'i': 20, 's': 12, 'h': 8, ' ': 48, 't': 15, 'e': 28, 'x': 2, 'f': 6, 'o': 26, 'r': 24, 'b': 4, 'p': 7, 'a': 17, 'c': 7, 'd': 12, 'm': 5, '.': 3, 'P': 1, 'y': 6, 'u': 8, 'w': 5, 'v': 5, 'T': 1, '\n': 1}
+Longest word:
+comprehension
+Count of sentences:
+3
+Reversed text:
+hsilgnE stxet rof srennigeb ot ecitcarp gnidaer dna noisneherpmoc enilno dna rof .eerf gnicitcarP ruoy noisneherpmoc fo nettirw hsilgnE lliw htob evorpmi ruoy yralubacov dna gnidnatsrednu fo rammarg dna drow .redro ehT stxet woleb era dengised ot pleh uoy poleved elihw gnivig uoy na tnatsni noitaulave fo ruoy .ssergorp
